@@ -79,7 +79,7 @@ Proyecto integrador enfocado en crear una experiencia de compra para amantes del
 - Frontend desarrollado con **HTML, CSS, JavaScript, DOM y Bootstrap**.
 - Arquitectura backend proyectada con **Java, Spring Boot y SQL**.
 
-<a href="https://rutta-aventura.lankc.chatgpt.site">
+<a href="">
   <img alt="Ver demo de Rutta" src="https://img.shields.io/badge/Ver_demo-Rutta-1F4D3A?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
