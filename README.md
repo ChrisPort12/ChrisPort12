@@ -152,6 +152,68 @@ Mini sitio responsivo sobre *The Legend of Zelda: Ocarina of Time*, con estructu
 
 </div>
 
+## 💡 Más que código: mi forma de construir
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <h3>🔎 Investigo</h3>
+  <p>Identifico usuarios, necesidades y problemas antes de comenzar a programar.</p>
+</td>
+<td align="center" width="25%">
+  <h3>🧭 Planifico</h3>
+  <p>Defino requerimientos, historias de usuario, alcance y funcionalidades.</p>
+</td>
+<td align="center" width="25%">
+  <h3>💻 Desarrollo</h3>
+  <p>Construyo interfaces responsivas y funcionalidades con tecnologías web.</p>
+</td>
+<td align="center" width="25%">
+  <h3>🚀 Mejoro</h3>
+  <p>Pruebo, documento, recibo retroalimentación y realizo mejoras continuas.</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+## 🎯 Lo que actualmente estoy construyendo
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏔️ Rutta
+
+E-commerce de productos para senderismo y aventura.
+
+- Catálogo y categorías
+- Buscador y filtros
+- Favoritos y carrito
+- Diseño responsivo
+- Planeación de inventario y pedidos
+- Backend con Java y Spring Boot en desarrollo
+
+</td>
+<td width="50%" valign="top">
+
+### ☕ Mi crecimiento Full Stack
+
+Actualmente estoy fortaleciendo:
+
+- Java y programación orientada a objetos
+- Spring Boot
+- SQL y bases de datos
+- Integración frontend y backend
+- Git y trabajo colaborativo
+- Buenas prácticas de desarrollo
+
+</td>
+</tr>
+</table>
+
 ## 📫 Conectemos
 
 Estoy abierto a oportunidades junior, proyectos colaborativos y conversaciones sobre desarrollo web. Si buscas a alguien con iniciativa, disposición para aprender y compromiso con el equipo, será un gusto conocernos.
