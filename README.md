@@ -141,12 +141,13 @@ Mini sitio responsivo sobre *The Legend of Zelda: Ocarina of Time*, con estructu
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ChrisPort12&show_icons=true&theme=tokyonight&hide_border=true&locale=es">
-  <img height="165" alt="Estadísticas de GitHub de Christian" src="https://github-readme-stats.vercel.app/api?username=ChrisPort12&show_icons=true&theme=default&hide_border=true&locale=es">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChrisPort12&theme=github_dark">
+  <img height="165" alt="Estadísticas de GitHub de Christian" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChrisPort12&theme=github">
 </picture>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisPort12&layout=compact&theme=tokyonight&hide_border=true&locale=es">
-  <img height="165" alt="Lenguajes más utilizados por Christian" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisPort12&layout=compact&theme=default&hide_border=true&locale=es">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChrisPort12&theme=github_dark">
+  <img height="165" alt="Lenguajes más utilizados por Christian" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChrisPort12&theme=github">
 </picture>
 
 </div>
